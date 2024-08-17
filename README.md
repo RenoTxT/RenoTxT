@@ -29,4 +29,5 @@
 
 ![Reno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenoTxT&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RenoTxT&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
