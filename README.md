@@ -23,6 +23,7 @@
 
 - ## 🔧 &nbsp;Code Editor / IDE
   ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+  ![Visual Studio Community Badge](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 
 # 📊 GitHub Stats
 
