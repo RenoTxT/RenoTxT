@@ -1,5 +1,8 @@
 ## Hi there! I'm Reno.
-
+<hr/>
+About Me
+<hr/>
+Currently learning Javascript
 <!--
 **RenoTxT/RenoTxT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
