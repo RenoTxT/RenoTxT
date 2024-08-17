@@ -28,3 +28,5 @@
 # 📊 GitHub Stats
 
 ![Reno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenoTxT&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&layout=compact&theme=radical)
+
