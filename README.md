@@ -1,4 +1,4 @@
-## Hi there! I'm Reno
+## Hi there! I'm Reno.
 
 <!--
 **RenoTxT/RenoTxT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
