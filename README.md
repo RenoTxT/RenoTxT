@@ -79,10 +79,10 @@
   </tr>
 </table>
 
-
 </table>
 
 ##
+
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br><br>
   <img src="https://profile-counter.glitch.me/RenoTxT/count.svg"/>
@@ -90,22 +90,16 @@
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
-        <img src="https://github-profile-trophy.vercel.app/?username=RenoTxT&column=-1&theme=gotham&layout=compact"width="95%"/> 
+        <img src="https://github-profile-trophy.vercel.app/?username=RenoTxT&column=-1&theme=dracula&layout=compact" width="95%"/> 
 </p>
 
-  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&theme=dracula&layout=compact" width="40%"/> 
 </p>
 
 <p align="center">
 <a href="https://github.com/RenoTxT?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=RenoTxT&theme=dracula&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@RenoTxT's github-readme-stats"/></a>
-<a href="https://github.com/RenoTxT?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=RenoTxT&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
-
-
-<!-- <p align="center">
-  <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
+<a href="https://github.com/RenoTxT?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=RenoTxT&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 <br/>
