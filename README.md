@@ -31,3 +31,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenoTxT&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/RenoTxT/count.svg" />
+</p>
+
+
