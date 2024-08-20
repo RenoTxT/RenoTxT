@@ -31,9 +31,28 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=RenoTxT&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/RenoTxT/count.svg"/>
+</p>
+<p align="center"> 
+<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
+</p>  
+  
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RenoTxT/count.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenoTxT&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
+<p align="center">
+<a href="https://github.com/RenoTxT?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=RenoTxT&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@RenoTxT's github-readme-stats"/></a>
+<a href="https://github.com/jrohitofficial?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=RenoTxT&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
+
+<!-- <p align="center">
+  <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
+</p>
+
+<br/>
 
