@@ -3,8 +3,6 @@
   Hey there! I'm Reno.
 </h1>
 
-<h2 align="center">About Me </h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=20C20E&center=true&vCenter=true&width=440&lines=👨🏻‍💻+Exploring+JavaScript;👨+Learning+and+growing+every+day!" alt="Typing SVG" />
 </p>
