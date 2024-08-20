@@ -99,8 +99,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/RenoTxT?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=RenoTxT&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@RenoTxT's github-readme-stats"/></a>
-<a href="https://github.com/jrohitofficial?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=RenoTxT&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/RenoTxT?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=RenoTxT&theme=dracula&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@RenoTxT's github-readme-stats"/></a>
+<a href="https://github.com/RenoTxT?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=RenoTxT&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
 
@@ -117,7 +117,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=6A0DAD&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
 <div align="center">
