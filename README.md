@@ -89,7 +89,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/jrohitofficial/jrohitofficial">
+    <a href="https://github.com/RenoTxT/RenoTxT">
         <img src="https://github-profile-trophy.vercel.app/?username=RenoTxT&column=-1&theme=dracula&layout=compact" width="95%"/> 
 </p>
 
